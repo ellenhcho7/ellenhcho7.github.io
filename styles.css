@@ -3,6 +3,7 @@ img {
 }
 body {
     text-align: center;
-    font-family: serif;
-    
+    font-family: "Varial", sans-serif;
+    background: white;
+    color: red;
 }
